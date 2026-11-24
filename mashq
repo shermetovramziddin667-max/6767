@@ -1,0 +1,45 @@
+#1-mashq
+# def salomlash(ism):
+#     print(f"Salom, {ism}! Darsga xush kelibsiz.")
+# salomlash("Ali")
+#2-mashq
+# def yigindi(a, b):
+#     return a + b
+# natija = yigindi(7, 5)
+# print(natija)
+# print(natija * 2)
+#3-mashq
+# def juftmi(n):
+#     return n % 2 == 0
+# print(juftmi(4))
+# print(juftmi(5))
+#4-mashq
+# def daraja(son, n=2):
+#     return son ** n
+# print(daraja(5))
+# print(daraja(2, 10))
+# print(daraja(3, n=3 ))
+
+# def yigindi(a, b):
+#     return a + b
+# natija = yigindi(7, 5)
+# print(natija)
+# print(natija * 2)
+
+# 5-mashq
+# def daraja(son, n=2):
+#     return son ** n
+
+# print(daraja(5))
+# print(daraja(2, 10))
+# print(daraja(3, n=3))
+
+# def tortburchak(a, b):
+#     yuza = a * b
+#     perimetr = 2 * (a + b)
+#     return yuza, perimetr
+
+# yuza, perimetr = tortburchak(4, 6)
+# print("Yuza:", yuza)
+# print("Perimetr:", perimetr)
+
